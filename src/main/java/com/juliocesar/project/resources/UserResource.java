@@ -1,6 +1,6 @@
 package com.juliocesar.project.resources;
 
-import com.juliocesar.project.model.entities.User;
+import com.juliocesar.project.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

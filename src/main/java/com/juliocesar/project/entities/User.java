@@ -1,4 +1,4 @@
-package com.juliocesar.project.model.entities;
+package com.juliocesar.project.entities;
 
 import jakarta.persistence.*;
 
