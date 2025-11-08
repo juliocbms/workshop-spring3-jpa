@@ -45,17 +45,17 @@ Relacionamentos implementados:
 
 ## Como Executar o Projeto
 
-### 1️⃣ Clonar o repositório
+###  Clonar o repositório
 ```bash
 git clone https://github.com/juliocbms/workshop-spring3-jpa.git
 ```
 
-### 2️⃣ Entrar no diretório
+###  Entrar no diretório
 ```bash
 cd workshop-spring3-jpa
 ```
 
-### 3️⃣ Executar com Maven
+###  Executar com Maven
 ```bash
 ./mvnw spring-boot:run
 ```
